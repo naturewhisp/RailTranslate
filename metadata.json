@@ -1,0 +1,6 @@
+{
+  "name": "RailTranslate",
+  "description": "Offline railway text translator with technical dictionary",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
